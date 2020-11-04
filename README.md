@@ -1,3 +1,3 @@
 # Projetos-Excel
 
-Projetos em Excel envolvendo as áreas administrativas, como estoques e finanças, principalmente as pessoais.
+Projetos em Excel envolvendo administração, buscando sempre dar ênfase à área financeira.
